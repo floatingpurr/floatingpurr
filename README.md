@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Software and data architect focusing on the design and development of systems for exploring and making sense of complex information. Cappuccino advocate. I’m as curious as my two cats! ^..^ ₍⸍⸌̣ʷ̣̫⸍̣⸌₎
+I'm a software and data architect focusing on the design and development of systems for exploring and making sense of complex information. Cappuccino advocate. I’m as curious as my two cats! ^..^ ₍⸍⸌̣ʷ̣̫⸍̣⸌₎
 
 💬 Check out [my blog](https://imandrea.me/) for more! _(actually, it resembles much more my personal cookbook)_
