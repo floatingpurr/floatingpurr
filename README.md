@@ -1,6 +1,10 @@
 <h1 align="center">Hello there 👋, I'm Andrea</h1>
 <h3 align="center">software engineer & data architect</h3>
 
+[![Twitter: i_m_andrea](https://img.shields.io/twitter/follow/i_m_andrea?style=social)](https://twitter.com/i_m_andrea)
+[![Linkedin: andreamignone](https://img.shields.io/badge/-Me_on_Linkedin-blue?style=-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andreamignone/)](https://www.linkedin.com/in/andreamignone/)
+[![GitHub floatingpurr](https://img.shields.io/github/followers/floatingpurr?label=follow&style=social)](https://github.com/floatingpurr)
+
 I'm a software engineer and data architect focusing on the design and development of systems for exploring and making sense of complex information. Cappuccino advocate. I’m as curious as my two cats! ^..^ ₍⸍⸌̣ʷ̣̫⸍̣⸌₎
 
 💬 Check out [my blog](https://imandrea.me/) for more! _(actually, it resembles much more my personal cookbook)_
