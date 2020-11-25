@@ -5,7 +5,7 @@ I'm a software engineer and data architect focusing on the design and developmen
 
 💬 Check out [my blog](https://imandrea.me/) for more! _(actually, it resembles much more my personal cookbook)_
 
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=floatingpurr&count_private=true&show_icons=true)
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=floatingpurr&count_private=true&show_icons=true&custom_title=My%20GitHub%20Stats)
 
 <!--
 **floatingpurr/floatingpurr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
