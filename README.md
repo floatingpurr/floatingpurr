@@ -1,4 +1,11 @@
-### Hi there, I’m Andrea 👋
+<h1 align="center">Hello there 👋, I'm Andrea</h1>
+<h3 align="center">software engineer & data architect</h3>
+
+I'm a software engineer and data architect focusing on the design and development of systems for exploring and making sense of complex information. Cappuccino advocate. I’m as curious as my two cats! ^..^ ₍⸍⸌̣ʷ̣̫⸍̣⸌₎
+
+💬 Check out [my blog](https://imandrea.me/) for more! _(actually, it resembles much more my personal cookbook)_
+
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=floatingpurr&count_private=true&show_icons=true)
 
 <!--
 **floatingpurr/floatingpurr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +22,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a software and data architect focusing on the design and development of systems for exploring and making sense of complex information. Cappuccino advocate. I’m as curious as my two cats! ^..^ ₍⸍⸌̣ʷ̣̫⸍̣⸌₎
 
-💬 Check out [my blog](https://imandrea.me/) for more! _(actually, it resembles much more my personal cookbook)_
