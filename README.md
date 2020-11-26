@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👋, I'm Andrea</h1>
+<h1 align="center">👋 Hello there, I'm Andrea</h1>
 
 <p align="center">
 <a href=https://twitter.com/i_m_andrea target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="i_m_andrea" height="20" width="20" /></a>
