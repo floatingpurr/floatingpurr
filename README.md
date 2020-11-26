@@ -14,7 +14,7 @@ I'm a software engineer and data architect focusing on the design and developmen
 
 💬 Check out [my blog](https://imandrea.me/) for more! _(actually, it resembles much more my personal cookbook)_
 
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=floatingpurr&count_private=true&show_icons=true&custom_title=My%20GitHub%20Stats> </p>
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=floatingpurr&count_private=true&show_icons=true&custom_title=My%20GitHub%20Stats&theme=ayu-mirage> </p>
 
 <!--
 **floatingpurr/floatingpurr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
