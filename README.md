@@ -7,6 +7,7 @@
 </p>
 
 <h3 align="center">software engineer & data architect</h3>
+<h6 align="center">(switch to the light theme to see social icons)</h6>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=floatingpurr&label=Guests&color=orange" alt="floatingpurr" /> </p>  
 
