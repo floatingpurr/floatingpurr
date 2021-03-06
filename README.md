@@ -7,15 +7,16 @@
 </p>
 
 <h3 align="center">software engineer & data architect</h3>
-<h6 align="center">(switch to the light theme to see social icons)</h6>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=floatingpurr&label=Guests&color=orange" alt="floatingpurr" /> </p>  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=floatingpurr&label=Guests&color=orange" alt="floatingpurr" /></p>
 
 I'm a software engineer and data architect focusing on the design and development of systems for exploring and making sense of complex information. Cappuccino advocate. I’m as curious as my two cats! ^..^ ₍⸍⸌̣ʷ̣̫⸍̣⸌₎
 
 💬 Check out [my blog](https://imandrea.me/) for more! _(actually, it resembles much more my personal cookbook)_
 
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=floatingpurr&count_private=true&show_icons=true&custom_title=My%20GitHub%20Stats&theme=ayu-mirage> </p>
+
+<h6 align="center">(switch to the light theme to see social icons on top)</h6>
 
 <!--
 **floatingpurr/floatingpurr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
