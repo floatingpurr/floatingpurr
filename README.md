@@ -1,5 +1,7 @@
 <h1 align="center">👋 Hello there, I'm Andrea</h1>
 
+<h3 align="center">Software Engineer & Data Architect</h3>
+
 <p align="center">
 <a href="https://twitter.com/i_m_andrea" target="blank">
   <picture>
@@ -25,8 +27,6 @@
   </picture>
 </a>
 </p>
-
-<h3 align="center">software engineer & data architect</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=floatingpurr&label=Guests&color=orange" alt="floatingpurr" /></p>
 
