@@ -1,25 +1,29 @@
 <h1 align="center">👋 Hello there, I'm Andrea</h1>
 
-
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://simpleicons.vercel.app/twitter/d6dce2">
-  <source media="(prefers-color-scheme: light)" srcset="https://simpleicons.vercel.app/twitter/000">
-  <a href="https://twitter.com/i_m_andrea" target="blank"><img align="center" src="https://simpleicons.vercel.app/twitter/000" alt="i_m_andrea" height="20" width="20" /></a>
-</picture>
-  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://simpleicons.vercel.app/linkedin/d6dce2">
-  <source media="(prefers-color-scheme: light)" srcset="https://simpleicons.vercel.app/linkedin/000">
-  <a href="https://linkedin.com/in/andreamignone" target="blank"><img align="center" src="https://simpleicons.vercel.app/linkedin/000" alt="i_m_andrea" height="20" width="20" /></a>
-</picture>
-  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://simpleicons.vercel.app/stackoverflow/d6dce2">
-  <source media="(prefers-color-scheme: light)" srcset="https://simpleicons.vercel.app/stackoverflow/000">
-  <a href="https://stackoverflow.com/users/4820341" target="blank"><img align="center" src="https://simpleicons.vercel.app/stackoverflow/000" alt="i_m_andrea" height="20" width="20" /></a>
-</picture>
+<a href="https://twitter.com/i_m_andrea" target="blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://simpleicons.vercel.app/twitter/d6dce2">
+    <source media="(prefers-color-scheme: light)" srcset="https://simpleicons.vercel.app/twitter/000">
+    <img align="center" src="https://simpleicons.vercel.app/twitter/000" alt="i_m_andrea" height="20" width="20" />
+  </picture>
+</a>
 
+<a href="https://linkedin.com/in/andreamignone" target="blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://simpleicons.vercel.app/linkedin/d6dce2">
+    <source media="(prefers-color-scheme: light)" srcset="https://simpleicons.vercel.app/linkedin/000">
+    <img align="center" src="https://simpleicons.vercel.app/linkedin/000" alt="i_m_andrea" height="20" width="20" />
+  </picture>
+</a>
+
+<a href="https://stackoverflow.com/users/4820341" target="blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://simpleicons.vercel.app/stackoverflow/d6dce2">
+    <source media="(prefers-color-scheme: light)" srcset="https://simpleicons.vercel.app/stackoverflow/000">
+    <img align="center" src="https://simpleicons.vercel.app/stackoverflow/000" alt="i_m_andrea" height="20" width="20" />
+  </picture>
+</a>
 </p>
 
 <h3 align="center">software engineer & data architect</h3>
