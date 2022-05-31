@@ -1,9 +1,25 @@
 <h1 align="center">👋 Hello there, I'm Andrea</h1>
 
+
 <p align="center">
-<a href=https://twitter.com/i_m_andrea target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="i_m_andrea" height="20" width="20" /></a>
-<a href=https://linkedin.com/in/andreamignone target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="andreamignone" height="20" width="20" /></a>
-<a href=https://stackoverflow.com/users/4820341 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg alt="andreamignone" height="20" width="20" /></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://simpleicons.vercel.app/twitter/d6dce2">
+  <source media="(prefers-color-scheme: light)" srcset="https://simpleicons.vercel.app/twitter/000">
+  <a href="https://twitter.com/i_m_andrea" target="blank"><img align="center" src="https://simpleicons.vercel.app/twitter/000" alt="i_m_andrea" height="20" width="20" /></a>
+</picture>
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://simpleicons.vercel.app/linkedin/d6dce2">
+  <source media="(prefers-color-scheme: light)" srcset="https://simpleicons.vercel.app/linkedin/000">
+  <a href="https://linkedin.com/in/andreamignone" target="blank"><img align="center" src="https://simpleicons.vercel.app/linkedin/000" alt="i_m_andrea" height="20" width="20" /></a>
+</picture>
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://simpleicons.vercel.app/stackoverflow/d6dce2">
+  <source media="(prefers-color-scheme: light)" srcset="https://simpleicons.vercel.app/stackoverflow/000">
+  <a href="https://stackoverflow.com/users/4820341" target="blank"><img align="center" src="https://simpleicons.vercel.app/stackoverflow/000" alt="i_m_andrea" height="20" width="20" /></a>
+</picture>
+
 </p>
 
 <h3 align="center">software engineer & data architect</h3>
