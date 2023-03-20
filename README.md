@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello there, I'm Andrea</h1>
 
-<h3 align="center">Software Engineer & Data Architect</h3>
+<h3 align="center">Solutions Architect & Software Engineer</h3>
 
 <p align="center">
 <a href="https://twitter.com/i_m_andrea" target="blank">
@@ -30,7 +30,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=floatingpurr&label=Guests&color=orange" alt="floatingpurr" /></p>
 
-I'm a software engineer and data architect focusing on the design and development of systems for exploring and making sense of complex information. Cappuccino advocate. I’m as curious as my two cats! ^..^ ₍⸍⸌̣ʷ̣̫⸍̣⸌₎
+I'm a Solutions Architect & Software Engineer focusing on the design and development of robust and resilient systems. Cappuccino advocate. I’m as curious as my two cats! ^..^ ₍⸍⸌̣ʷ̣̫⸍̣⸌₎
 
 💬 Check out [my blog](https://imandrea.me/) for more! _(actually, it resembles much more my personal cookbook)_
 
