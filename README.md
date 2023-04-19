@@ -30,7 +30,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=floatingpurr&label=Guests&color=orange" alt="floatingpurr" /></p>
 
-I'm a Solutions Architect & Software Engineer focusing on the design and development of robust and resilient systems. Cappuccino advocate. I’m as curious as my two cats! ^..^ ₍⸍⸌̣ʷ̣̫⸍̣⸌₎
+I'm a Solutions Architect & Software Engineer focusing on the design and development of robust and resilient systems. Addicted to cappuccino. I’m as curious as my two cats! ^..^ ₍⸍⸌̣ʷ̣̫⸍̣⸌₎
 
 💬 Check out [my blog](https://imandrea.me/) for more! _(actually, it resembles much more my personal cookbook)_
 
