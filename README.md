@@ -36,8 +36,6 @@ I'm a Solutions Architect & Software Engineer focusing on the design and develop
 
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=floatingpurr&count_private=true&show_icons=true&custom_title=My%20GitHub%20Stats&theme=ayu-mirage> </p>
 
-<h6 align="center">(switch to the light theme to see social icons on top)</h6>
-
 <!--
 **floatingpurr/floatingpurr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
