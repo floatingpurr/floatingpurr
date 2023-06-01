@@ -7,7 +7,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://simpleicons.vercel.app/twitter/d6dce2">
     <source media="(prefers-color-scheme: light)" srcset="https://simpleicons.vercel.app/twitter/000">
-    <img align="center" src="https://simpleicons.vercel.app/twitter/000" alt="i_m_andrea" height="20" width="20" />
+    <img align="center" src="https://simpleicons.vercel.app/twitter/000" alt="Me on Twitter" height="20" width="20" />
   </picture>
 </a>
 
@@ -15,7 +15,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://simpleicons.vercel.app/linkedin/d6dce2">
     <source media="(prefers-color-scheme: light)" srcset="https://simpleicons.vercel.app/linkedin/000">
-    <img align="center" src="https://simpleicons.vercel.app/linkedin/000" alt="i_m_andrea" height="20" width="20" />
+    <img align="center" src="https://simpleicons.vercel.app/linkedin/000" alt="Me on Linkedin" height="20" width="20" />
   </picture>
 </a>
 
@@ -23,9 +23,19 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://simpleicons.vercel.app/stackoverflow/d6dce2">
     <source media="(prefers-color-scheme: light)" srcset="https://simpleicons.vercel.app/stackoverflow/000">
-    <img align="center" src="https://simpleicons.vercel.app/stackoverflow/000" alt="i_m_andrea" height="20" width="20" />
+    <img align="center" src="https://simpleicons.vercel.app/stackoverflow/000" alt="Me on Stack Overflow" height="20" width="20" />
   </picture>
 </a>
+  
+<a href="https://www.imandrea.me/rss.xml" target="blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://simpleicons.vercel.app/rss/d6dce2">
+    <source media="(prefers-color-scheme: light)" srcset="https://simpleicons.vercel.app/rss/000">
+    <img align="center" src="https://simpleicons.vercel.app/rss/000" alt="i_m_andrea.me RSS" height="20" width="20" />
+  </picture>
+</a>
+  
+  rssrss
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=floatingpurr&label=Guests&color=orange" alt="floatingpurr" /></p>
