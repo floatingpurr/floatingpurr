@@ -34,8 +34,6 @@
     <img align="center" src="https://simpleicons.vercel.app/rss/000" alt="i_m_andrea.me RSS" height="20" width="20" />
   </picture>
 </a>
-  
-  rssrss
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=floatingpurr&label=Guests&color=orange" alt="floatingpurr" /></p>
