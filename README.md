@@ -38,11 +38,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=floatingpurr&label=Guests&color=orange" alt="floatingpurr" /></p>
 
-I'm a Solutions Architect & Software Engineer focusing on the design and development of robust and resilient systems. Addicted to cappuccino. I’m as curious as my two cats! ^..^ ₍⸍⸌̣ʷ̣̫⸍̣⸌₎
+<i>Ciao</i>, I'm Andrea, a Solutions Architect & Software Engineer focusing on the design and development of robust and resilient systems. Addicted to cappuccino. I’m as curious as my two cats! ^..^ ₍⸍⸌̣ʷ̣̫⸍̣⸌₎
 
 💬 Check out [my blog](https://imandrea.me/) for more! _(actually, it resembles much more my personal cookbook)_
 
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=floatingpurr&count_private=true&show_icons=true&custom_title=My%20GitHub%20Stats&theme=ayu-mirage> </p>
+Cheers!
+
+<!-- p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=floatingpurr&count_private=true&show_icons=true&custom_title=My%20GitHub%20Stats&theme=ayu-mirage> </p-->
 
 <!--
 **floatingpurr/floatingpurr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
