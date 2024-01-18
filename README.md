@@ -1,4 +1,4 @@
-<h1 align="center"><i>Ciao</i> 👋 , I'm Andrea</h1>
+<h1 align="center"><i>Ciao</i> 👋, I'm Andrea</h1>
 
 <h3 align="center">Solutions Architect & Software Engineer</h3>
 
