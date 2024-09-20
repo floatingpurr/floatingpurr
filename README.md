@@ -7,7 +7,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://simpleicons.vercel.app/x/d6dce2">
     <source media="(prefers-color-scheme: light)" srcset="https://simpleicons.vercel.app/x/000">
-    <img align="center" src="https://simpleicons.vercel.app/twitter/000" alt="Me on X" height="20" width="20" />
+    <img align="center" src="https://simpleicons.vercel.app/x/000" alt="Me on X" height="20" width="20" />
   </picture>
 </a>
 
