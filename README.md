@@ -1,8 +1,16 @@
 <h1 align="center"><i>Ciao</i> 👋, I'm Andrea</h1>
 
 <h3 align="center">Solutions Architect & Software Engineer</h3>
-
 <p align="center">
+
+<a href="https://github.com/floatingpurr" target="blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://simpleicons.vercel.app/github/d6dce2">
+    <source media="(prefers-color-scheme: light)" srcset="https://simpleicons.vercel.app/github/000">
+    <img align="center" src="https://simpleicons.vercel.app/x/000" alt="Me on X" height="20" width="20" />
+  </picture>
+</a>
+
 <a href="https://twitter.com/i_m_andrea" target="blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://simpleicons.vercel.app/x/d6dce2">
@@ -13,8 +21,8 @@
 
 <a href="https://linkedin.com/in/andreamignone" target="blank">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://simpleicons.vercel.app/linkedin/d6dce2">
-    <source media="(prefers-color-scheme: light)" srcset="https://simpleicons.vercel.app/linkedin/000">
+    <source media="(prefers-color-scheme: dark)" srcset="https://simpleicons.vercel.app/invision/d6dce2">
+    <source media="(prefers-color-scheme: light)" srcset="https://simpleicons.vercel.app/invision/000">
     <img align="center" src="https://simpleicons.vercel.app/linkedin/000" alt="Me on Linkedin" height="20" width="20" />
   </picture>
 </a>
