@@ -7,7 +7,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://simpleicons.vercel.app/github/d6dce2">
     <source media="(prefers-color-scheme: light)" srcset="https://simpleicons.vercel.app/github/000">
-    <img align="center" src="https://simpleicons.vercel.app/x/000" alt="Me on GitHub" height="20" width="20" />
+    <img align="center" src="https://simpleicons.vercel.app/github/000" alt="Me on GitHub" height="20" width="20" />
   </picture>
 </a>
 
@@ -23,7 +23,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://simpleicons.vercel.app/invision/d6dce2">
     <source media="(prefers-color-scheme: light)" srcset="https://simpleicons.vercel.app/invision/000">
-    <img align="center" src="https://simpleicons.vercel.app/linkedin/000" alt="Me on Linkedin" height="20" width="20" />
+    <img align="center" src="https://simpleicons.vercel.app/invision/000" alt="Me on Linkedin" height="20" width="20" />
   </picture>
 </a>
 
